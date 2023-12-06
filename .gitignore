@@ -1,0 +1,35 @@
+# Visual Studio files
+.vs/
+*.vscode/
+*.suo
+*.user
+*.sln.docstates
+
+# Build directories
+bin/
+obj/
+
+# NuGet dependencies
+packages/
+
+# User-specific files
+*.userprefs
+*.usertasks
+*.userdta
+
+# Compiled files
+*.dll
+*.exe
+
+# Log files
+*.log
+
+# Ignore sensitive or environment-specific information
+appsettings.json
+*.pfx
+*.snk
+*.pem
+
+# Ignore local configuration
+appsettings.Development.json
+appsettings.Production.json
